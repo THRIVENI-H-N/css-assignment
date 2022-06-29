@@ -1,0 +1,52 @@
+.head {
+    color: red;
+    font-size: 30px;
+}
+
+.first {
+    color: crimson;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+ol {
+    color: brown;
+    font-size: 15px;
+}
+
+ul {
+    color: brown;
+    font-display: 1px;
+    font-family: monospace;
+}
+
+p {
+    color: brown;
+    font-display: 15px;
+    font-size: small;
+    font-weight: bold;
+}
+
+a{
+    color: crimson;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#p1 {
+    text-decoration: underline;
+    text-decoration-color: brown;
+    font-style: italic;
+}
+
+.one {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.two {
+    text-decoration: line-through;
+    font-weight: bold;
+}
